@@ -111,6 +111,7 @@ After that you're on your own.
 * Contributed to the development of an enterprise threat modeling certification
 * Reported a security misconfiguration to CISA that was fixed immediately
 * Reported a bug to GitHub that was fixed in the next release
+* My tabletop DRP was used in an actual regional outage
 
 <!--
 **jmcshannon/jmcshannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
