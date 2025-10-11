@@ -2,8 +2,8 @@
 
 ## Vocabulary
 
-unary - one operand
-binary - two operands
+* **unary** - one operand
+* **binary** - two operands
 
 ## Useful Info
 
