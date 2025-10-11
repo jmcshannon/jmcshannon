@@ -18,4 +18,4 @@ binary - two operands
 
 add an instruction to XOR rbx with 15, what is the hex value of rbx after the program has run?
 
-![Screenshot of Challenge Steps](https://github.com/jmcshannon/jmcshannon/images/alu_challenge.png)
+![Screenshot of Challenge Steps](https://github.com/jmcshannon/jmcshannon/blob/main/htb_writeups/images/alu_challenge.PNG)
